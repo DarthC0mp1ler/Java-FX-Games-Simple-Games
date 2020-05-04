@@ -2,7 +2,6 @@
 No description required
 
 Written by DarthC0mp1ler
-Pavlo Zinevych
 PJATK student
 
 These codes were written,probably, as my projects in the Java GUI course.
